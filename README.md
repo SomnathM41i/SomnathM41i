@@ -27,7 +27,7 @@
 
 <p>
     <a target="_blank"href="https://somnathmali.000webhostapp.com/"><img src="https://img.shields.io/badge/First%20website-0A0A0A?style=for-the-badge&logo=first%20website&logoColor=red" /></a>&nbsp;&nbsp;
-    <a target="_blank"href="https://kshyun28.hashnode.dev/"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=blog&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href="https://emperorofbattle.blogspot.com/?m=1"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=blog&logoColor=white" /></a>&nbsp;&nbsp;
   
 </p>
 
