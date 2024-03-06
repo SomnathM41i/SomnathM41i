@@ -1,7 +1,7 @@
 
 <div align="center">
 
-## Contact :
+## Contact
 
 [![Twitter/X](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/somnath.m41i) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/somnathm41i/) &nbsp;
