@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## 💻 My Skills:
+## 💻 My Skills
 [![My Slills](https://skillicons.dev/icons?i=html)]()
 [![My Slills](https://skillicons.dev/icons?i=css)]()
 [![My Slills](https://skillicons.dev/icons?i=js)]()
@@ -23,7 +23,7 @@
 [![My Slills](https://skillicons.dev/icons?i=bash)]()
 [![My Slills](https://skillicons.dev/icons?i=linux)]()
 
-## 📖 Creations:
+## 📖 Creations
 
 <p>
     <a target="_blank"href="https://somnathmali.000webhostapp.com/"><img src="https://img.shields.io/badge/First%20website-0A0A0A?style=for-the-badge&logo=first%20website&logoColor=red" /></a>&nbsp;&nbsp;
