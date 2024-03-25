@@ -5,7 +5,7 @@
 <p>
   <a href="https://www.instagram.com/somnath.m41i" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>&nbsp;
   <a href="https://www.linkedin.com/in/somnathm41i/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>&nbsp;
-  <a href="mailto:somnath.malim46@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"></a>
+  <a href="mailto:somnath.malim46@gmail.com" target="Hello..!"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"></a>
 </p>
 
 </div>
