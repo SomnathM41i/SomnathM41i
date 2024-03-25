@@ -1,11 +1,12 @@
-
 <div align="center">
 
-## 📱Contact
+## 📱 Contact
 
-[![Twitter/X](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/somnath.m41i) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/somnathm41i/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](somnath.malim46@gmail.com)
+<p>
+  <a href="https://www.instagram.com/somnath.m41i" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/somnathm41i/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:somnath.malim46@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"></a>
+</p>
 
 </div>
 
@@ -13,31 +14,29 @@
 <div align="center">
 
 ## 💻 My Skills
-[![My Slills](https://skillicons.dev/icons?i=html)]()
-[![My Slills](https://skillicons.dev/icons?i=css)]()
-[![My Slills](https://skillicons.dev/icons?i=js)]()
-[![My Slills](https://skillicons.dev/icons?i=c)]()
-[![My Slills](https://skillicons.dev/icons?i=cpp)]()
-[![My Slills](https://skillicons.dev/icons?i=php)]()
-[![My Slills](https://skillicons.dev/icons?i=mysql)]()
-[![My Slills](https://skillicons.dev/icons?i=bash)]()
-[![My Slills](https://skillicons.dev/icons?i=linux)]()
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML">&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS">&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" alt="C">&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++">&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP">&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash">&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux">&nbsp;
+</p>
 
 ## 📖 Creations
 
 <p>
-    <a target="_blank"href="https://somnathmali.000webhostapp.com/"><img src="https://img.shields.io/badge/First%20website-0A0A0A?style=for-the-badge&logo=first%20website&logoColor=red" /></a>&nbsp;&nbsp;
-    <a target="_blank"href="https://emperorofbattle.blogspot.com/?m=1"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=blog&logoColor=white" /></a>&nbsp;&nbsp;
-  
+  <a href="https://somnathmali.000webhostapp.com/" target="_blank"><img src="https://img.shields.io/badge/First%20website-0A0A0A?style=for-the-badge&logo=first%20website&logoColor=red" alt="First website"></a>&nbsp;&nbsp;
+  <a href="https://emperorofbattle.blogspot.com/?m=1" target="_blank"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=blog&logoColor=white" alt="Blog"></a>&nbsp;&nbsp;
 </p>
-
 
 <p>
-    <img height=175 src="https://github-readme-stats.vercel.app/api?username=SomnathM41i&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomnathM41i&layout=compact&theme=dark" />&nbsp;&nbsp;
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=SomnathM41i&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">&nbsp;&nbsp;
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomnathM41i&layout=compact&theme=dark" alt="Top Languages">
 </p>
 
-
 </div>
-
-
