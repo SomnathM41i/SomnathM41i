@@ -9,23 +9,6 @@ Welcome to my GitHub! I build **vibrant, secure, and responsive** web apps with 
 </div>
 
 <div align="center" style="margin: 2rem 0;">
-  <script src="https://cdn.tailwindcss.com"></script>
-  <style>
-    .icon-hover:hover { transform: scale(1.4); filter: drop-shadow(0 0 8px #00ffcc); transition: all 0.3s ease; }
-    .stats-img { max-width: 100%; height: auto; }
-    .pinned-repo { background: linear-gradient(135deg, #1e1b4b, #3b0764); border: 2px solid #00ffcc; border-radius: 12px; padding: 1.5rem; margin: 0.75rem; transition: transform 0.3s ease, box-shadow 0.3s ease; }
-    .pinned-repo:hover { transform: translateY(-8px); box-shadow: 0 0 15px #ff00ff; }
-    .section-divider { border-top: 3px solid transparent; background: linear-gradient(to right, #ff00ff, #00ffcc); margin: 2.5rem 0; }
-    .badge { transition: transform 0.2s ease, filter 0.2s ease; }
-    .badge:hover { transform: scale(1.15); filter: drop-shadow(0 0 6px #00ffcc); }
-    .glow-text { text-shadow: 0 0 10px #00ffcc, 0 0 20px #ff00ff; }
-    @media (max-width: 600px) { 
-      .stats-img { max-width: 90%; } 
-      .pinned-repo { width: 100%; } 
-      .icon-hover { width: 2.75rem; height: 2.75rem; }
-      .glow-text { font-size: 1.75rem; }
-    }
-  </style>
 
   ## 📱 Connect with Me
 
