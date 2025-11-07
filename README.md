@@ -106,7 +106,7 @@ From **live e-commerce platforms** to **dual-language financial apps** — I shi
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SomnathM41i&theme=react&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=FF6B9D&currStreakLabel=00FFCC" alt="GitHub Streak" />
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomnathM41i&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=SomnathM41i&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=SomnathM41i&theme=react-dark&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FF6B9D&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 
 </div>
 
