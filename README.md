@@ -1,118 +1,146 @@
 <div align="center">
-  <h1>🌟 Somnath Mali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand"></h1>
-  <p><strong>Full-Stack PHP Developer | Cybersecurity Certified | India 🇮🇳</strong></p>
-  <p>I build <strong>secure, scalable, real-time web systems</strong> using <strong>PHP, Laravel, CodeIgniter, React & MySQL</strong>.<br>From <strong>live e-commerce platforms</strong> to <strong>dual-language financial apps</strong> — I ship production code that <em>works</em>.</p>
+
+# 🌟 Somnath Mali
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FFCC&center=true&vCenter=true&width=600&lines=Full-Stack+PHP+Developer;Cybersecurity+Certified;Building+Secure+Web+Systems" alt="Typing SVG" />
+
+### 💼 **Full-Stack PHP Developer** | 🛡️ **Cybersecurity Certified** | 🇮🇳 **India**
+
+I build **secure, scalable, real-time web systems** using **PHP, Laravel, CodeIgniter, React & MySQL**.  
+From **live e-commerce platforms** to **dual-language financial apps** — I ship production code that *works*.
+
+<br>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/somnath.m41i)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnathm41i/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somnath.malim46@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=firefox&logoColor=white)](https://somnathmali.000webhostapp.com/)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
-<div align="center" style="margin: 2rem 0;">
-  <div class="flex justify-center gap-10 my-10">
-    <a href="https://www.instagram.com/somnath.m41i" target="_blank" aria-label="Instagram">
-      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" class="w-14 h-14 icon-hover" title="Instagram">
-    </a>
-    <a href="https://www.linkedin.com/in/somnathm41i/" target="_blank" aria-label="LinkedIn">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" class="w-14 h-14 icon-hover" title="LinkedIn">
-    </a>
-    <a href="mailto:somnath.malim46@gmail.com" aria-label="Email">
-      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" class="w-14 h-14 icon-hover" title="Email">
-    </a>
-  </div>
+## 💻 Tech Stack
 
-  <hr style="border: 1px solid #00ffcc; width: 60%; margin: 2rem auto;">
+<div align="center">
 
-  <h2>💻 Tech Stack</h2>
-  <div class="flex flex-wrap justify-center gap-6 my-10">
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP" class="w-14 h-14 icon-hover" title="PHP">
-    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" class="w-14 h-14 icon-hover" title="Laravel">
-    <img src="https://skillicons.dev/icons?i=codeigniter" alt="CodeIgniter" class="w-14 h-14 icon-hover" title="CodeIgniter">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" class="w-14 h-14 icon-hover" title="MySQL">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" class="w-14 h-14 icon-hover" title="React">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" class="w-14 h-14 icon-hover" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" class="w-14 h-14 icon-hover" title="Bootstrap">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" class="w-14 h-14 icon-hover" title="Git">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" class="w-14 h-14 icon-hover" title="Docker">
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" class="w-14 h-14 icon-hover" title="Postman">
-  </div>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-  <hr style="border: 1px solid #00ffcc; width: 60%; margin: 2rem auto;">
+</div>
 
-  <h2>🏆 Featured Projects</h2>
-  <div class="flex flex-wrap justify-center gap-8 my-10">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-    <!-- LOTUS BRAND BAZAAR -->
-    <div class="pinned-repo" style="background: linear-gradient(135deg, #1a1a2e, #16213e); padding: 1.5rem; border-radius: 16px; width: 380px; box-shadow: 0 8px 20px rgba(0,255,204,0.2); border: 1px solid #00ffcc;">
-      <h3 style="color: #00ffcc; font-weight: bold; margin: 0;">🔥 Lotus Brand Bazaar <span style="font-size: 0.8em; color: #66ffcc;">(LIVE)</span></h3>
-      <p style="color: #e0e0e0; font-size: 0.9em; margin: 0.8rem 0;">
-        <strong>Live e-commerce platform</strong> in Dombivli East, Thane — <strong>10K+ daily transactions</strong> via PhonePe/Razorpay.
-      </p>
-      <ul style="color: #b0e0e6; font-size: 0.85em; margin: 0.5rem 0; padding-left: 1.2rem;">
-        <li>React + AJAX dashboards → <strong>40% faster admin ops</strong></li>
-        <li>Role-based super-admin system (CodeIgniter)</li>
-        <li>MySQL indexing → <strong>68% query speedup</strong></li>
-        <li>DROP-certified CSRF/XSS hardening</li>
-      </ul>
-      <div style="margin-top: 1rem;">
-        <a href="https://lotusbrandbazaar.com" target="_blank" style="color: #ff6b9d; font-weight: bold; text-decoration: none;">🌐 Live Site</a>
-        <span style="color: #888; margin: 0 8px;">|</span>
-        <a href="https://github.com/SomnathM41i/lotus-brand-bazaar-case-study" target="_blank" style="color: #8be9fd; font-weight: bold; text-decoration: none;">📂 Case Study</a>
-      </div>
-    </div>
+## 🏆 Featured Projects
 
-    <!-- GOLD LOAN SYSTEM -->
-    <div class="pinned-repo" style="background: linear-gradient(135deg, #2d1b3a, #1a0d2e); padding: 1.5rem; border-radius: 16px; width: 380px; box-shadow: 0 8px 20px rgba(139, 233, 253, 0.2); border: 1px solid #8be9fd;">
-      <h3 style="color: #8be9fd; font-weight: bold; margin: 0;">💰 Gold Loan Management System</h3>
-      <p style="color: #e0e0e0; font-size: 0.9em; margin: 0.8rem 0;">
-        <strong>10-week MVP</strong> for a Sangli client — <strong>dual-language (Marathi/English)</strong> financial app.
-      </p>
-      <ul style="color: #b0e0e6; font-size: 0.85em; margin: 0.5rem 0; padding-left: 1.2rem;">
-        <li>CodeIgniter 4 + Bootstrap 5 + MySQL</li>
-        <li>Real-time P&L, salary, gold valuation APIs</li>
-        <li>PDF reports + CSRF + AJAX updates</li>
-        <li>OpenAPI spec + Postman collection</li>
-      </ul>
-      <a href="https://github.com/SomnathM41i/gold-loan-system" target="_blank" style="color: #ff6b9d; font-weight: bold; text-decoration: none;">View Repository →</a>
-    </div>
+<div align="center">
 
-  </div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <hr style="border: 1px solid #00ffcc; width: 60%; margin: 2rem auto;">
+### 🔥 [Lotus Brand Bazaar](https://lotusbrandbazaar.com) <img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square" alt="Live">
 
-  <h2>📖 Creations</h2>
-  <div class="flex flex-wrap justify-center gap-6 my-10">
-    <a href="https://somnathmali.000webhostapp.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
-    </a>
-    <a href="https://emperorofbattle.blogspot.com/?m=1" target="_blank">
-      <img src="https://img.shields.io/badge/Tech%20Blog-6B5BFF?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
-    </a>
-    <a href="https://test.garudprofits.online/" target="_blank">
-      <img src="https://img.shields.io/badge/Firebase%20Demo-FFD700?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-    </a>
-  </div>
+**Live e-commerce platform** in Dombivli East, Thane  
+**10K+ daily transactions** via PhonePe/Razorpay
 
-  <hr style="border: 1px solid #00ffcc; width: 60%; margin: 2rem auto;">
+**⚡ Key Achievements:**
+- React + AJAX dashboards → **40% faster admin ops**
+- Role-based super-admin system (CodeIgniter)
+- MySQL indexing → **68% query speedup**
+- DROP-certified CSRF/XSS hardening
 
-  <h2>📊 GitHub Stats</h2>
-  <div class="flex flex-wrap justify-center gap-6 my-10">
-    <img src="https://github-readme-stats.vercel.app/api?username=SomnathM41i&show_icons=true&count_private=true&theme=onedark&border_color=00ffcc&title_color=8be9fd&text_color=ffffff&icon_color=00ffcc" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SomnathM41i&theme=onedark&border=00ffcc&fire=ff6b9d&ring=8be9fd&currStreakLabel=8be9fd" alt="Streak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomnathM41i&layout=compact&theme=onedark&border_color=00ffcc&title_color=8be9fd&text_color=ffffff" alt="Top Languages">
-  </div>
+**🔗 Links:**  
+[🌐 Live Site](https://lotusbrandbazaar.com) | [📂 Case Study](https://github.com/SomnathM41i/lotus-brand-bazaar-case-study)
 
-  <hr style="border: 1px solid #00ffcc; width: 60%; margin: 2rem auto;">
+</td>
+<td width="50%" valign="top">
 
-  <h2>🛡️ Certifications</h2>
-  <ul style="text-align: center; list-style: none; padding: 0; color: #e0e0e0;">
-    <li><strong>DROP Certified Security Course (DCSC-SMN1223)</strong> — Web App Pentesting & Ethical Hacking</li>
-    <li><strong>Live Project Contributor</strong> — Lotus Brand Bazaar (CodeX Technologies)</li>
-  </ul>
+### 💰 [Gold Loan Management System](https://github.com/SomnathM41i/gold-loan-system)
 
-  <hr style="border: 1px solid #00ffcc; width: 60%; margin: 2rem auto;">
+**10-week MVP** for a Sangli client  
+**Dual-language (Marathi/English)** financial app
 
-  <h2>🚀 Let's Build Something Real</h2>
-  <p>Got a PHP/Laravel project? Need secure APIs or a blazing-fast dashboard?<br>Let’s talk.</p>
-  <p>
-    <a href="mailto:somnath.malim46@gmail.com" style="color: #ff6b9d; font-weight: bold;">📧 Email</a> | 
-    <a href="https://www.linkedin.com/in/somnathm41i/" style="color: #8be9fd; font-weight: bold;">💼 LinkedIn</a> | 
-    <a href="https://github.com/SomnathM41i" style="color: #00ffcc; font-weight: bold;">💻 GitHub</a>
-  </p>
+**⚡ Key Features:**
+- CodeIgniter 4 + Bootstrap 5 + MySQL
+- Real-time P&L, salary, gold valuation APIs
+- PDF reports + CSRF + AJAX updates
+- OpenAPI spec + Postman collection
+
+**🔗 Links:**  
+[📂 View Repository →](https://github.com/SomnathM41i/gold-loan-system)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📖 Creations & Demos
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B9D?style=for-the-badge)](https://somnathmali.000webhostapp.com/)
+[![Tech Blog](https://img.shields.io/badge/📝_Tech_Blog-6B5BFF?style=for-the-badge)](https://emperorofbattle.blogspot.com/?m=1)
+[![Firebase Demo](https://img.shields.io/badge/🔥_Firebase_Demo-FFD700?style=for-the-badge)](https://test.garudprofits.online/)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SomnathM41i&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SomnathM41i&theme=react&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=FF6B9D&currStreakLabel=00FFCC" alt="GitHub Streak" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomnathM41i&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=SomnathM41i&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛡️ Certifications & Achievements
+
+<div align="center">
+
+🎓 **DROP Certified Security Course (DCSC-SMN1223)**  
+*Web App Pentesting & Ethical Hacking*
+
+🏆 **Live Project Contributor**  
+*Lotus Brand Bazaar (CodeX Technologies)*
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 Let's Build Something Real
+
+<div align="center">
+
+Got a **PHP/Laravel project**? Need **secure APIs** or a **blazing-fast dashboard**?  
+**Let's talk.**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somnath.malim46@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnathm41i/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
+
+**⭐ From [SomnathM41i](https://github.com/SomnathM41i) | Building the future, one commit at a time**
+
 </div>
