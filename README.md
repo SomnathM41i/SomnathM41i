@@ -92,7 +92,7 @@ From **live e-commerce platforms** to **dual-language financial apps** — I shi
 </td>
 <td width="50%" valign="top">
 
-### 💰 [Gold Loan Management System](https://github.com/SomnathM41i/gold-loan-system)
+### 💰 [Gold Loan Management System]()
 
 **10-week MVP** developed for a Sangli-based client  
 **Dual-language support** (Marathi & English) for seamless financial operations  
@@ -104,7 +104,7 @@ From **live e-commerce platforms** to **dual-language financial apps** — I shi
 - **API-ready**: OpenAPI spec with Postman collection for rapid integration  
 
 **🔗 Quick Links:**  
-[📂 Repository →](https://github.com/SomnathM41i/gold-loan-system)
+[📂 Repository →]()
 
 </td>
 </tr>
@@ -115,10 +115,10 @@ From **live e-commerce platforms** to **dual-language financial apps** — I shi
 ## 📖 Creations & Demos
 
 <div>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B9D?style=for-the-badge)](https://somnathmali.000webhostapp.com/)
-[![Tech Blog](https://img.shields.io/badge/📝_Tech_Blog-6B5BFF?style=for-the-badge)](https://emperorofbattle.blogspot.com/?m=1)
-[![Firebase Demo](https://img.shields.io/badge/🔥_Firebase_Demo-FFD700?style=for-the-badge)](https://test.garudprofits.online/)
+Comming Soon...!
+<!-- [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B9D?style=for-the-badge)]()
+[![Tech Blog](https://img.shields.io/badge/📝_Tech_Blog-6B5BFF?style=for-the-badge)]()
+[![Firebase Demo](https://img.shields.io/badge/🔥_Firebase_Demo-FFD700?style=for-the-badge)]() -->
 
 </div>
 
