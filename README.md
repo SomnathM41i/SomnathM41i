@@ -77,16 +77,16 @@ From **live e-commerce platforms** to **dual-language financial apps** — I shi
 
 ### 🔥 [Lotus Brand Bazaar](https://lotusbrandbazaar.com) <img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square" alt="Live">
 
-**Live e-commerce platform** in Dombivli East, Thane  
-**10K+ daily transactions** via PhonePe/Razorpay
+**High-traffic e-commerce platform** serving Dombivli East, Thane  
+**10K+ daily transactions** seamlessly processed via PhonePe & Razorpay  
 
 **⚡ Key Achievements:**
-- React + AJAX dashboards → **40% faster admin ops**
-- Role-based super-admin system (CodeIgniter)
-- MySQL indexing → **68% query speedup**
-- DROP-certified CSRF/XSS hardening
+- **Optimized React + AJAX dashboards** → 40% faster admin operations  
+- **Role-based super-admin system** built in CodeIgniter  
+- **MySQL indexing** → boosted query performance by 68%  
+- **Enterprise-grade security**: DROP-certified CSRF & XSS mitigation  
 
-**🔗 Links:**  
+**🔗 Quick Links:**  
 [🌐 Live Site](https://lotusbrandbazaar.com) | [📂 Case Study](https://github.com/SomnathM41i/lotus-brand-bazaar-case-study)
 
 </td>
@@ -94,25 +94,23 @@ From **live e-commerce platforms** to **dual-language financial apps** — I shi
 
 ### 💰 [Gold Loan Management System](https://github.com/SomnathM41i/gold-loan-system)
 
-**10-week MVP** for a Sangli client  
-**Dual-language (Marathi/English)** financial app
+**10-week MVP** developed for a Sangli-based client  
+**Dual-language support** (Marathi & English) for seamless financial operations  
 
-**⚡ Key Features:**
-- CodeIgniter 4 + Bootstrap 5 + MySQL
-- Real-time P&L, salary, gold valuation APIs
-- PDF reports + CSRF + AJAX updates
-- OpenAPI spec + Postman collection
+**⚡ Key Highlights:**
+- Built with **CodeIgniter 4 + Bootstrap 5 + MySQL**  
+- **Real-time financial insights**: P&L, salary calculations, gold valuation APIs  
+- **Automated PDF reports** + secure CSRF & AJAX-powered updates  
+- **API-ready**: OpenAPI spec with Postman collection for rapid integration  
 
-**🔗 Links:**  
-[📂 View Repository →](https://github.com/SomnathM41i/gold-loan-system)
+**🔗 Quick Links:**  
+[📂 Repository →](https://github.com/SomnathM41i/gold-loan-system)
 
 </td>
 </tr>
 </table>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Projects Showcase">
 
 ## 📖 Creations & Demos
 
