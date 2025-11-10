@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # 🌟 Somnath Mali
 
@@ -22,7 +22,7 @@ From **live e-commerce platforms** to **dual-language financial apps** — I shi
 
 ## 💻 Tech Stack
 
-<div align="center">
+<div>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -41,7 +41,7 @@ From **live e-commerce platforms** to **dual-language financial apps** — I shi
 
 ## 🏆 Featured Projects
 
-<div align="center">
+<div>
 
 <table>
 <tr>
@@ -88,7 +88,7 @@ From **live e-commerce platforms** to **dual-language financial apps** — I shi
 
 ## 📖 Creations & Demos
 
-<div align="center">
+<div>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B9D?style=for-the-badge)](https://somnathmali.000webhostapp.com/)
 [![Tech Blog](https://img.shields.io/badge/📝_Tech_Blog-6B5BFF?style=for-the-badge)](https://emperorofbattle.blogspot.com/?m=1)
@@ -100,7 +100,7 @@ From **live e-commerce platforms** to **dual-language financial apps** — I shi
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SomnathM41i&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SomnathM41i&theme=react&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=FF6B9D&currStreakLabel=00FFCC" alt="GitHub Streak" />
@@ -114,7 +114,7 @@ From **live e-commerce platforms** to **dual-language financial apps** — I shi
 
 ## 🛡️ Certifications & Achievements
 
-<div align="center">
+<div>
 
 🎓 **DROP Certified Security Course (DCSC-SMN1223)**  
 *Web App Pentesting & Ethical Hacking*
@@ -128,7 +128,7 @@ From **live e-commerce platforms** to **dual-language financial apps** — I shi
 
 ## 🚀 Let's Build Something Real
 
-<div align="center">
+<div>
 
 Got a **PHP/Laravel project**? Need **secure APIs** or a **blazing-fast dashboard**?  
 **Let's talk.**
