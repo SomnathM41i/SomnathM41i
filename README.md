@@ -121,8 +121,7 @@
 
 ### 🤖 myvivahai <img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square" alt="Live">
 
-**AI-powered matrimonial biodata extraction & matching platform**  
-Python/FastAPI + React + Tailwind. OCR-based biodata parsing (Tesseract, EasyOCR), multilingual support, AI profile matching via Groq (LLaMA) & Gemini.
+**AI-powered matrimonial biodata extraction & matching platform** built during tenure at CodeX Technologies. Python/FastAPI backend with React frontend. Features OCR-based biodata parsing (Tesseract, EasyOCR), multilingual support (English, Hindi, Marathi), and AI-driven profile matching via Groq (LLaMA) & Google Gemini.
 
 ```
 ┌─ AI Matching ─┬─ OCR Parsing ─┬─ Dockerized ─┐
@@ -130,38 +129,26 @@ Python/FastAPI + React + Tailwind. OCR-based biodata parsing (Tesseract, EasyOCR
 └───────────────┴───────────────┴───────────────┘
 ```
 
+**Tech:** Python · FastAPI · React · Tailwind CSS · Groq · Gemini · OCR · Docker · MySQL
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i/myvivahai)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 Lotus Brand Bazaar <img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square" alt="Live">
-
-**High-traffic e-commerce platform** serving Dombivli East, Thane. Role-based admin system, wallet management, real-time PhonePe payments.
-
-```
-┌─ RBAC Admin ─┬─ PhonePe ─┬─ 10K+ Daily ─┐
-│  Live Site   │  Rewards  │  Production   │
-└──────────────┴───────────┴───────────────┘
-```
-
-[![Live](https://img.shields.io/badge/Live_Site-00FFCC?style=for-the-badge&logo=firefox&logoColor=black)](https://lotusbrandbazaar.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💰 Gold Loan Management <img src="https://img.shields.io/badge/DELIVERED-FF6B9D?style=flat-square" alt="Delivered">
+### 💰 Gold Loan Management System <img src="https://img.shields.io/badge/DELIVERED-FF6B9D?style=flat-square" alt="Delivered">
 
-**10-week MVP** for a Sangli client. Dual-language (Marathi/English), P&L tracking, salary management, automated PDF reports.
+Complete business management web application delivered for a Sangli-based client. Dual-language support (Marathi/English), profit & loss tracking, employee salary management, gold loan operations, and automated PDF reports.
 
 ```
 ┌─ CodeIgniter 4 ─┬─ i18n ─┬─ PDF Auto ─┐
 │  Solo Delivery │  API   │  Production │
 └────────────────┴────────┴─────────────┘
 ```
+
+**Tech:** CodeIgniter 4 · MySQL · Bootstrap 5 · AJAX · i18n · PDF Generation
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i)
 
@@ -170,13 +157,15 @@ Python/FastAPI + React + Tailwind. OCR-based biodata parsing (Tesseract, EasyOCR
 
 ### 👰 Matrimonial Platform Suite <img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square" alt="Live">
 
-End-to-end development for **25 matrimonial platforms** across Maharashtra. Each serving 10K–50K users.
+Contributed to frontend and backend development for **25 matrimonial platforms** across Maharashtra — each serving 10K to 50K users. End-to-end ownership: API design, database architecture, backend, frontend, CRM, and CMS.
 
 ```
 ┌─ 25 Platforms ─┬─ Razorpay ─┬─ CRM/CMS ─┐
 │ 10K–50K Users │  Laravel  │  Production │
 └───────────────┴───────────┴─────────────┘
 ```
+
+**Tech:** Laravel · React · MySQL · Razorpay · REST API
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i)
 
@@ -187,7 +176,7 @@ End-to-end development for **25 matrimonial platforms** across Maharashtra. Each
 
 ### 📱 Matrimony_Platform <img src="https://img.shields.io/badge/OPEN_SOURCE-00A86B?style=flat-square" alt="Open Source">
 
-Laravel-based matrimony platform: authentication, profile management, matchmaking, admin dashboard.
+Matrimony platform developed during tenure at CodeX Technologies using Laravel. Features user authentication, profile management, matchmaking, admin dashboard, and Blade-templated UI.
 
 ```
 ┌─ Laravel ─┬─ Blade ─┬─ Full CRUD ─┐
@@ -195,20 +184,24 @@ Laravel-based matrimony platform: authentication, profile management, matchmakin
 └────────────┴─────────┴─────────────┘
 ```
 
+**Tech:** Laravel · Blade · MySQL · PHP · Bootstrap
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i/Matrimony_Platform)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏦 CRM & Banking Apps <img src="https://img.shields.io/badge/ENTERPRISE-6B5BFF?style=flat-square" alt="Enterprise">
+### 🏦 CRM & Banking Applications <img src="https://img.shields.io/badge/ENTERPRISE-6B5BFF?style=flat-square" alt="Enterprise">
 
-Enterprise CRM tools & banking applications. Role-based permissions, real-time transaction processing.
+Developed enterprise-level CRM tools and banking-related applications with high-performance architecture. Implemented secure data handling, role-based permissions, and real-time transaction processing.
 
 ```
 ┌─ High-Concurrency ─┬─ Zero-Trust ─┬─ Audit ─┐
 │  MySQL Optimized   │    RBAC     │  Logs   │
 └───────────────────┴─────────────┴─────────┘
 ```
+
+**Tech:** PHP · Laravel · MySQL · Security-First Architecture
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i)
 
