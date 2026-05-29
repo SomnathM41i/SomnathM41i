@@ -34,7 +34,7 @@
 
 ## 📖 About Me
 
-> Grew up in **Karagani, Sangli** — a place where the career options were farming or government jobs. I chose a third one nobody understood: coding. Started from home with HTML, then PHP because someone on a forum said it *"runs on any server."* Two years later, I'm building fintech systems and AI/LLM-powered platforms with Python.
+> Started coding in a small village in Sangli with a 4G connection and a lot of free time. No bootcamp, no mentor — just Stack Overflow all day and night and broken code that somehow worked. Two years later, I'm building fintech systems and AI/LLM-powered platforms with Python.
 
 **📍 Currently:** Full Stack Developer @ **CodeX Technologies, Mumbai**  
 **🔭 Building:** AI-powered platforms, payment systems, wallet platforms, prepaid card integrations  
