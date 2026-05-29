@@ -1,9 +1,6 @@
 <div align="center">
 
-# ════════════════════════════════════
 # ⎧ Somnath Mali ⎫
-# ⎩ Full-Stack & AI Developer ⎭
-# ════════════════════════════════════
 
 <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=PHP+%2F+Laravel+%2F+FastAPI;React+%2F+Tailwind+%2F+Python;AI+%2F+ML+Integration;DCSC+Certified+%E2%80%A2+Cybersecurity;%E2%80%9CProduction+code+that+actually+works%E2%80%9D" alt="Typing SVG" />
 
