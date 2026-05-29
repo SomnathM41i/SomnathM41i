@@ -5,7 +5,7 @@
 # ⎩ Full-Stack & AI Developer ⎭
 # ════════════════════════════════════
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=PHP+%2F+Laravel+%2F+FastAPI;React+%2F+Tailwind+%2F+Python;AI+%2F+ML+Integration;DCSC+Certified+%E2%80%A2+Cybersecurity;%E2%80%9CProduction+code+that+actually+works%E2%80%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=PHP+%2F+Laravel+%2F+FastAPI;React+%2F+Tailwind+%2F+Python;AI+%2F+ML+Integration;DCSC+Certified+%E2%80%A2+Cybersecurity;%E2%80%9CProduction+code+that+actually+works%E2%80%9D" alt="Typing SVG" />
 
 ```
 ┌──────────────────────────────────────────────┐
@@ -51,9 +51,10 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logoColor=white" />
 </details>
 
 <details open>
@@ -72,7 +73,7 @@
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/PhonePe-5F259F?style=for-the-badge&logo=phonepe&logoColor=white" />
+<img src="https://img.shields.io/badge/PhonePe-5F259F?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </details>
@@ -80,11 +81,11 @@
 <details open>
 <summary><b>AI & Automation</b></summary>
 <br>
-<img src="https://img.shields.io/badge/Groq-00E5FF?style=for-the-badge&logo=groq&logoColor=black" />
+<img src="https://img.shields.io/badge/Groq-00E5FF?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/OCR_(Tesseract/EasyOCR)-00A86B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OCR-00A86B?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logoColor=white" />
 </details>
 
 <details open>
@@ -92,7 +93,7 @@
 <br>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=portswigger&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-00A0D2?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-7A3BDC?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-7A3BDC?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-0077B5?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/OWASP_ZAP-5C2D91?style=for-the-badge&logo=owasp&logoColor=white" />
 <img src="https://img.shields.io/badge/Kali_Linux-00B0D7?style=for-the-badge&logo=kali-linux&logoColor=white" />
@@ -252,7 +253,7 @@ Developed enterprise-level CRM tools and banking-related applications with high-
 > *"If you're building something that needs to handle real traffic, real money, or real users — and you want someone who's been through the pain of production — let's talk."*
 
 [![Email](https://img.shields.io/badge/somnath.malim46@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somnath.malim46@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_9022357293-00FFCC?style=for-the-badge&logo=whatsapp&logoColor=black)](tel:+919022357293)
+[![Phone](https://img.shields.io/badge/+91_9022357293-00FFCC?style=for-the-badge&logoColor=black)](tel:+919022357293)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnathm41i/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i)
