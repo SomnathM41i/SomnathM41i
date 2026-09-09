@@ -1,46 +1,35 @@
 <div align="center">
 
-# ⎧ Somnath Mali ⎫
+# Somnath Mali
 
-<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=PHP+%2F+Laravel+%2F+FastAPI;React+%2F+Tailwind+%2F+Python;AI+%2F+ML+Integration;DCSC+Certified+%E2%80%A2+Cybersecurity;%E2%80%9CProduction+code+that+actually+works%E2%80%9D" alt="Typing SVG" />
+**Full-Stack Developer · PHP/Laravel · Python/FastAPI · React · AI/ML**
 
-```
-┌──────────────────────────────────────────────┐
-│  somnath@codex:~$ whoami                      │
-│  somnath_mali  //  full-stack & ai developer  │
-│                                               │
-│  $ cat experience.txt                         │
-│  2+ years @ CodeX Technologies, Mumbai        │
-│  25 matrimonial platforms                     │
-│  AI/LLM with Python  •  DROP Security Cert    │
-│                                               │
-│  $ ./status                                   │
-│  ● OPEN FOR WORK  •  Mumbai / Remote          │
-└──────────────────────────────────────────────┘
-```
+📍 Mumbai, India · Remote-friendly
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/somnath.m41i)
+<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=Building+fintech+systems+in+production;PHP%2C+Laravel%2C+CodeIgniter%2C+FastAPI;React%2C+Tailwind%2C+JavaScript;AI%2FLLM+%26+Cybersecurity+enthusiast;DCSC+Certified" alt="Typing SVG" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnathm41i/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somnath.malim46@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=firefox&logoColor=black)](https://somnathm41i-portfolio.vercel.app/)
-[![Blog](https://img.shields.io/badge/Blog-6B5BFF?style=for-the-badge&logo=blogger&logoColor=white)](https://emperorofbattle.blogspot.com)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=vercel&logoColor=black)](https://somnathm41i-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somnath.malim46@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-black?style=for-the-badge&logo=telegram&logoColor=white)](tel:+919022357293)
 
 </div>
 
-## 📖 About Me
+---
 
-> Started coding in a small village in Sangli with a 4G connection and a lot of free time. No bootcamp, no mentor — just Stack Overflow all day and night and broken code that somehow worked. Two years later, I'm building fintech systems and AI/LLM-powered platforms with Python.
+## About
 
-**📍 Currently:** Full Stack Developer @ **CodeX Technologies, Mumbai**  
-**🔭 Building:** AI-powered platforms, payment systems, wallet platforms, prepaid card integrations  
-**🌱 Exploring:** AI/LLM integration, cybersecurity CTF, secure system architecture  
-**⚡ Philosophy:** *"The difference between a tutorial and production is that in production, your bug costs someone real money."*
+Started coding in a small village in Sangli with a 4G connection and a lot of free time — no bootcamp, no mentor, just Stack Overflow and broken code that somehow worked. Today I build production systems where bugs cost real money.
 
-<br>
+**Currently:** Full-Stack Developer @ **CodeX Technologies, Mumbai** (since 2023) — building payment platforms, wallet systems, prepaid card integrations, and AI/LLM-powered products. 3+ years of production experience across fintech, matrimonial platforms, and enterprise CRM.
 
-## 🛠️ Tech Stack
+**Focus:** AI/LLM integration · Secure system architecture · Payment gateways · High-traffic web apps
+**Certified:** DROP Certified Security Course (Cybersecurity & Ethical Hacking)
+
+---
+
+## Tech Stack
 
 <details open>
 <summary><b>Backend</b></summary>
@@ -48,9 +37,8 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
-<img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logoColor=white" />
 </details>
 
@@ -58,11 +46,10 @@
 <summary><b>Frontend</b></summary>
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </details>
 
 <details open>
@@ -70,9 +57,9 @@
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/PhonePe-5F259F?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </details>
 
 <details open>
@@ -93,7 +80,6 @@
 <img src="https://img.shields.io/badge/Metasploit-7A3BDC?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-0077B5?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/OWASP_ZAP-5C2D91?style=for-the-badge&logo=owasp&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali_Linux-00B0D7?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </details>
 
 <details open>
@@ -102,66 +88,49 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
 </details>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Experience
 
-## 🚀 Featured Projects
+### Full-Stack Developer — CodeX Technologies, Mumbai (Jun 2023 – Present)
+
+- Built **myvivahai**, an AI-powered matrimonial biodata extraction & matching platform (Python/FastAPI + React) with OCR parsing and AI matching via Groq (LLaMA) & Gemini.
+- Developed REST APIs for authentication, wallet management, and reward points in real-time financial products.
+- Implemented role-based **admin & super-admin** systems for **Lotus Brand Bazaar** (high-traffic e-commerce).
+- Contributed to **25 matrimonial platforms** across Maharashtra, each serving 10K–50K users.
+- Integrated **PhonePe & Razorpay** with secure webhook reconciliation and CSRF protection.
+
+### Freelance Full-Stack Developer — Sangli (Jan 2025 – Mar 2025)
+
+- Delivered a complete **Gold Loan Management System** (CodeIgniter 4 + MySQL) end-to-end in 10 weeks.
+- Built dual-language (Marathi/English) UI with automated PDF reports, profit & loss tracking, and employee salary management.
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 myvivahai <img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square" alt="Live">
+### myvivahai <img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square" alt="Live">
 
-**AI-powered matrimonial biodata extraction & matching platform** built during tenure at CodeX Technologies. Python/FastAPI backend with React frontend. Features OCR-based biodata parsing (Tesseract, EasyOCR), multilingual support (English, Hindi, Marathi), and AI-driven profile matching via Groq (LLaMA) & Google Gemini.
+AI-powered matrimonial biodata extraction & matching platform. OCR-based parsing (Tesseract/EasyOCR), multilingual (EN/HI/MR), AI matching via Groq & Gemini.
 
-```
-┌─ AI Matching ─┬─ OCR Parsing ─┬─ Dockerized ─┐
-│  3 languages  │   Production  │   Live Now    │
-└───────────────┴───────────────┴───────────────┘
-```
-
-**Tech:** Python · FastAPI · React · Tailwind CSS · Groq · Gemini · OCR · Docker · MySQL
+**Tech:** Python · FastAPI · React · Tailwind · Groq · Gemini · Docker · MySQL
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i/myvivahai)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 💰 Gold Loan Management System <img src="https://img.shields.io/badge/DELIVERED-FF6B9D?style=flat-square" alt="Delivered">
+### Matrimonial Platform Suite <img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square" alt="Live">
 
-Complete business management web application delivered for a Sangli-based client. Dual-language support (Marathi/English), profit & loss tracking, employee salary management, gold loan operations, and automated PDF reports.
-
-```
-┌─ CodeIgniter 4 ─┬─ i18n ─┬─ PDF Auto ─┐
-│  Solo Delivery │  API   │  Production │
-└────────────────┴────────┴─────────────┘
-```
-
-**Tech:** CodeIgniter 4 · MySQL · Bootstrap 5 · AJAX · i18n · PDF Generation
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i)
-
-</td>
-<td width="50%" valign="top">
-
-### 👰 Matrimonial Platform Suite <img src="https://img.shields.io/badge/LIVE-00FF00?style=flat-square" alt="Live">
-
-Contributed to frontend and backend development for **25 matrimonial platforms** across Maharashtra — each serving 10K to 50K users. End-to-end ownership: API design, database architecture, backend, frontend, CRM, and CMS.
-
-```
-┌─ 25 Platforms ─┬─ Razorpay ─┬─ CRM/CMS ─┐
-│ 10K–50K Users │  Laravel  │  Production │
-└───────────────┴───────────┴─────────────┘
-```
+Full-stack contribution to **25 matrimonial platforms** (10K–50K users each): API design, database architecture, CRM/CMS, Razorpay payments.
 
 **Tech:** Laravel · React · MySQL · Razorpay · REST API
 
@@ -172,32 +141,33 @@ Contributed to frontend and backend development for **25 matrimonial platforms**
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Matrimony_Platform <img src="https://img.shields.io/badge/OPEN_SOURCE-00A86B?style=flat-square" alt="Open Source">
+### Gold Loan Management <img src="https://img.shields.io/badge/DELIVERED-FF6B9D?style=flat-square" alt="Delivered">
 
-Matrimony platform developed during tenure at CodeX Technologies using Laravel. Features user authentication, profile management, matchmaking, admin dashboard, and Blade-templated UI.
+Freelance business management app: Marathi/English i18n, profit & loss tracking, salary management, automated PDF reports.
 
-```
-┌─ Laravel ─┬─ Blade ─┬─ Full CRUD ─┐
-│  Open Sou. │  Admin  │  Auth Sys   │
-└────────────┴─────────┴─────────────┘
-```
+**Tech:** CodeIgniter 4 · MySQL · Bootstrap 5 · AJAX · i18n
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i)
+
+</td>
+<td width="50%" valign="top">
+
+### Matrimony_Platform <img src="https://img.shields.io/badge/OPEN_SOURCE-00A86B?style=flat-square" alt="Open Source">
+
+Open-source Laravel matrimony app: authentication, profiles, matchmaking, admin dashboard, Blade UI.
 
 **Tech:** Laravel · Blade · MySQL · PHP · Bootstrap
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i/Matrimony_Platform)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### 🏦 CRM & Banking Applications <img src="https://img.shields.io/badge/ENTERPRISE-6B5BFF?style=flat-square" alt="Enterprise">
+### CRM & Banking Apps <img src="https://img.shields.io/badge/ENTERPRISE-6B5BFF?style=flat-square" alt="Enterprise">
 
-Developed enterprise-level CRM tools and banking-related applications with high-performance architecture. Implemented secure data handling, role-based permissions, and real-time transaction processing.
-
-```
-┌─ High-Concurrency ─┬─ Zero-Trust ─┬─ Audit ─┐
-│  MySQL Optimized   │    RBAC     │  Logs   │
-└───────────────────┴─────────────┴─────────┘
-```
+Enterprise CRM & banking applications with RBAC, secure data handling, and real-time transaction processing.
 
 **Tech:** PHP · Laravel · MySQL · Security-First Architecture
 
@@ -207,11 +177,9 @@ Developed enterprise-level CRM tools and banking-related applications with high-
 </tr>
 </table>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -219,53 +187,33 @@ Developed enterprise-level CRM tools and banking-related applications with high-
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SomnathM41i&theme=react&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=FF6B9D&currStreakLabel=00FFCC" alt="GitHub Streak" />
 <br>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomnathM41i&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=SomnathM41i&theme=react-dark&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FF6B9D&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 
 </div>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Certifications & Education
 
-## 🛡️ Certification
+**Certification:** DROP Certified Security Course (DCSC-SMN1223) — Cybersecurity & Ethical Hacking · Aug 2024 · Web App Pentesting (Burp Suite, Nmap, Metasploit)
 
-```
-┌────────────────────────────────────────────────────────────┐
-│  DROP Certified Security Course (DCSC-SMN1223)             │
-│  Cybersecurity & Ethical Hacking • August 18, 2024         │
-│  Web App Pentesting • Burp Suite • Nmap • Metasploit       │
-└────────────────────────────────────────────────────────────┘
-```
+**Education:**
+- **BCA** — S. B. Deshmukh Mahavidyalaya, Atpadi (Jun 2022 – May 2025)
+- **HSC (12th)** — Shriram High School, Karagani (Jun 2021 – May 2022)
 
-**🎓 Education:** BCA — S. B. Deshmukh Mahavidyalaya, Atpadi (Jun 2022 – May 2025)
+---
 
-<br>
+## Let's Connect
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝 Let's Connect
+> If you're building something that needs to handle real traffic, real money, or real users — and you want someone who's been through the pain of production — let's talk.
 
 <div align="center">
 
-> *"If you're building something that needs to handle real traffic, real money, or real users — and you want someone who's been through the pain of production — let's talk."*
-
-[![Email](https://img.shields.io/badge/somnath.malim46@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somnath.malim46@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_9022357293-00FFCC?style=for-the-badge&logoColor=black)](tel:+919022357293)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnathm41i/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=firefox&logoColor=black)](https://somnathm41i-portfolio.vercel.app/)
-[![Blog](https://img.shields.io/badge/Blog-6B5BFF?style=for-the-badge&logo=blogger&logoColor=white)](https://emperorofbattle.blogspot.com)
-
-```yaml
-location: Mumbai / Remote
-status: Open for full-time & freelance
-stack: PHP • Laravel • FastAPI • Python • React • AI/ML
-philosophy: "Ship working software, not dreams."
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" />
-
-**⭐ From [SomnathM41i](https://github.com/SomnathM41i) — Building the future, one commit at a time**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=vercel&logoColor=black)](https://somnathm41i-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somnath.malim46@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-black?style=for-the-badge&logo=telegram&logoColor=white)](tel:+919022357293)
 
 </div>
+
+**Status:** Open to full-time & freelance roles · Mumbai / Remote
