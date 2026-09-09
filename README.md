@@ -183,10 +183,11 @@ Enterprise CRM & banking applications with RBAC, secure data handling, and real-
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SomnathM41i&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SomnathM41i&theme=react&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=FF6B9D&currStreakLabel=00FFCC" alt="GitHub Streak" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=SomnathM41i&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF" alt="GitHub Stats" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=SomnathM41i&theme=react&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=FF6B9D&currStreakLabel=00FFCC" alt="GitHub Streak" />
 <br>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomnathM41i&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SomnathM41i&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<img width="48%" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=SomnathM41i&theme=react-dark&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FF6B9D&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 
 </div>
 
