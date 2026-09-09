@@ -174,6 +174,17 @@ Enterprise CRM & banking applications with RBAC, secure data handling, and real-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i)
 
 </td>
+<td width="50%" valign="top">
+
+### Garud <img src="https://img.shields.io/badge/DELIVERED-FF6B9D?style=flat-square" alt="Delivered">
+
+Metal Management System built for a freelance client — live metal rate tracking (gold/silver), product management with weight/purity/pricing, and profit & loss reporting for metal businesses.
+
+**Tech:** Laravel · PHP · MySQL · Blade · Vite
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i/Garud)
+
+</td>
 </tr>
 </table>
 
