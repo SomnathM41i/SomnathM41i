@@ -108,6 +108,7 @@ Started coding in a small village in Sangli with a 4G connection and a lot of fr
 
 - Delivered a complete **Gold Loan Management System** (CodeIgniter 4 + MySQL) end-to-end in 10 weeks.
 - Built dual-language (Marathi/English) UI with automated PDF reports, profit & loss tracking, and employee salary management.
+- Built **Garud**, a Laravel-based **Metal Management System** for a freelance client — live gold/silver rate tracking, product management (weight/purity/pricing), and profit & loss reporting.
 
 ---
 
