@@ -12,7 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=vercel&logoColor=black)](https://somnathm41i-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somnath.malim46@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-black?style=for-the-badge&logo=telegram&logoColor=white)](tel:+919022357293)
+[![Phone](https://img.shields.io/badge/%2B91_9022357293-black?style=for-the-badge&logo=telegram&logoColor=white)](tel:+919022357293)
 
 </div>
 
@@ -225,7 +225,7 @@ Metal Management System built for a freelance client — live metal rate trackin
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomnathM41i)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=vercel&logoColor=black)](https://somnathm41i-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somnath.malim46@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-black?style=for-the-badge&logo=telegram&logoColor=white)](tel:+919022357293)
+[![Phone](https://img.shields.io/badge/%2B91_9022357293-black?style=for-the-badge&logo=telegram&logoColor=white)](tel:+919022357293)
 
 </div>
 
